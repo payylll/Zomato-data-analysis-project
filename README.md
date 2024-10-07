@@ -1,1 +1,1 @@
-# Zomato-data-analysis-project
+I conducted an in-depth analysis of Zomato data using Python in Jupyter Notebook. The project focused on exploring key trends, such as popular cuisines, restaurant locations, and price ranges. I utilized libraries like Pandas for data manipulation and Matplotlib/Seaborn for graphical representation to visualize insights. The project aimed to derive actionable insights for business decisions and customer preferences.
